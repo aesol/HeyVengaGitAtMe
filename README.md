@@ -34,9 +34,9 @@ I'm inspired by great chefs and restaurants. I just had 2Amy's pizza for the fir
 | Management      | Excellent        |   6 yrs |
 | Fun | Excellent        |    almost 25 yrs |
 
-I've also been taking General Assembly's online Dash training to sharpen by CSS and HTML skills. You can see a site I code from scratch here:
+I've also been taking General Assembly's online Dash training to sharpen by CSS and HTML skills. You can see a site I coded from scratch here:
 >https://dash.generalassemb.ly/aesol/build-your-own-blog-theme
-######There's a tiny bit of JavaScript in there!
+######There's even a tiny bit of JavaScript in there!
 
 ####This is all to say, I'm a fast learner that is not afraid to take on new technical challenges. I'm good with people, too.
 
